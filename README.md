@@ -4,4 +4,6 @@
 
 具体内容详见代码内注释。
 
+本仓库中的停用词取自[这里](https://github.com/goto456/stopwords)，也自己加上了部分内容
+
 如果有更好的方法或更多的分析欢迎 [issue](https://github.com/JesKi13567/QQ-Group-Chat-History-Analysis/issues) 交流！
